@@ -1,6 +1,5 @@
-
-int main(int argc, char* argv[])
+#include <iostream>
+int main ()
 {
-    
-    return 0;
+    std::cout<<"yawoll mein Fuhrer!"<<std::endl;
 }
